@@ -1,0 +1,13 @@
+textarea{
+    width:45%;
+    height: 80px;
+    margin: auto;
+    display: block;
+
+}
+button{
+    margin: auto;
+    width:95px;
+    height: 50px;
+    display: block;
+}
