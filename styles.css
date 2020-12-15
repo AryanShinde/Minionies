@@ -9,7 +9,7 @@ textarea{
 }
 button{
     margin: auto;
-    width:150px;
+    width:200px;
     height: 50px;
     display: block;
     /* background-color: #FFC300; */
@@ -26,16 +26,17 @@ button{
     height: 80px;
     display: block;
     width: 90%;
+    background-color: white;
 }
 .navigation{
-    background-color: #FFF933;
+    background-color: #FACC15;
     /* background-color: #FFFF66; */
     width:100%;
     height:100px;
     /* border-bottom: 0.7rem solid#FFC300; */
-    border-bottom: 0.7rem solid black;
+    border-bottom: 5px solid black;
     border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 3rem;
+    border-bottom-right-radius: 2rem;
 }
 
 .nav-name{
@@ -54,12 +55,12 @@ button{
     margin-block-end: 0em;
 }
 .footer{
-    background-color: #FFF933;
+    background-color: #FACC15;
     width:100%;
     margin: auto;
     height: 255px;
     /* border-top: 1rem solid #FFC300 ; */
-    border-top: 0.7rem solid black;
+    border-top: 5px solid black;
     border-top-right-radius: 1rem;
     border-top-left-radius: 2rem;
 
@@ -76,19 +77,23 @@ button{
     border: 5px solid black;
     width:240px;
     height:550px;
-    padding: 4rem;
+    padding: 3rem;
     padding-bottom:0rem;
     margin: auto;
     /* background-color:#FFF933; */
-    background-color:#FFF933
-    ;
+    background-color:#FACC15;
     border-radius: 4rem;
 }
 .miniongif{
-    width:270px;
+    width:250px;
     display: block;
     margin: auto;
     padding-top: 2rem;
+}
+.box-title{
+    text-align: center;
+    margin: auto;
+    padding-top: -2rem;
 }
 /* .link{
     margin: auto;
